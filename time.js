@@ -1,5 +1,6 @@
 var sentences = [
-    "Westworld",
+    "Doesn't look like anything to me",
+    "What door?",
 ];
 
 var images = [
