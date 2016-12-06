@@ -3,6 +3,10 @@ body {
     padding: 0;
     background-color: black;
     width: 100%;
+    background-image: url('backgroundImage.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 
 .display {
@@ -38,7 +42,6 @@ body {
 .image_container {
     width: 400px;
     height:400px;
-    border:solid;
     display: flex;
     justify-content: center;
 }
